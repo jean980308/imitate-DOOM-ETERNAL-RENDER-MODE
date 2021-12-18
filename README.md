@@ -12,3 +12,6 @@ Project VHS Render Mode
 
 PROJECT RETRO HANDLED
 [![Imitate - DooM- ETERNAL-RENDER mode  introudction](https://img.youtube.com/vi/9EngeJclCD4/maxresdefault.jpg)](https://www.youtube.com/watch?v=9EngeJclCD4&ab_channel=%E4%BC%8A%E5%B7%B4%E5%AF%86%E6%BF%83%E9%81%94)
+
+PROJECT DOT
+[![Imitate - DooM- ETERNAL-RENDER mode  introudction](https://img.youtube.com/vi/bxr3VXbEEU4/maxresdefault.jpg)](https://www.youtube.com/watch?v=bxr3VXbEEU4&ab_channel=%E4%BC%8A%E5%B7%B4%E5%AF%86%E6%BF%83%E9%81%94)
