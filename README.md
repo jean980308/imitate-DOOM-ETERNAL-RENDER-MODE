@@ -21,3 +21,6 @@ project black&white
 
 project DOOM CLASSIC
 [![Imitate - DooM- ETERNAL-RENDER mode  introudction](https://img.youtube.com/vi/XmIjzL8iG6M/maxresdefault.jpg)](https://www.youtube.com/watch?v=XmIjzL8iG6M&ab_channel=%E4%BC%8A%E5%B7%B4%E5%AF%86%E6%BF%83%E9%81%94)
+
+
+if you want to better solution , use deep learning (Convolutional encoder-decoder )
